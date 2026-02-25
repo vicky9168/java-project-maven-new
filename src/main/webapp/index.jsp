@@ -84,7 +84,7 @@
                 <div class="card-body">
                     <h2 class="name">Chichore</h2>
                     <h6 class="des">Lorem ipsum di sit consectetur elit.</h6>
-                    <button class="watchlist-btn">add to watchlist</button>
+                    <button class="watchlist-btn">add to watchlists</button>
                 </div>
             </div>
             <div class="card">
